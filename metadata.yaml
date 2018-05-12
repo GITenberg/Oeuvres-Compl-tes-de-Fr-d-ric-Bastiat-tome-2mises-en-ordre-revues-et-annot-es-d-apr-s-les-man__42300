@@ -1,0 +1,38 @@
+_repo: Oeuvres-Compl-tes-de-Fr-d-ric-Bastiat-tome-2mises-en-ordre-revues-et-annot-es-d-apr-s-les-man__42300
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bastiat, Frédéric
+    aliases:
+    - Bastiat, Frederic
+    - Bastiat, Claude Frédéric
+    birthdate: 1801
+    deathdate: 1850
+    gutenberg_agent_id: '6395'
+    url: http://www.gutenberg.org/2009/agents/6395
+    wikipedia: http://en.wikipedia.org/wiki/Frédéric_Bastiat
+  editor:
+    agent_name: Paillottet, Prosper
+    gutenberg_agent_id: '37640'
+    url: http://www.gutenberg.org/2009/agents/37640
+description: ''
+gutenberg_bookshelf:
+- FR Politique
+- FR Sciences et Techniques
+gutenberg_issued: '2013-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42300'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Economics'
+- !lcc 'HB'
+title: "Œuvres Complètes de Frédéric Bastiat, tome 2\r\nmises en ordre, revues et\
+  \ annotées d'après les manuscrits de l'auteur"
+url: http://www.gutenberg.org/ebooks/42300
